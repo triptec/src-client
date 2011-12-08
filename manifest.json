@@ -1,0 +1,24 @@
+{
+	"BundleType": "Application",
+	"AppIcon": {
+		"18x18": "src.png"
+	},
+	"AppName": {
+		"en": "src"
+	},
+	"SupportedLanguages": [
+		"en"
+	],
+	"RequiredPermissions": [
+		"https://www.googleapis.com",
+		"ws://localhost:8000"
+	],
+	"AcceptedLinkTypes": [
+		"track",
+		"artist",
+		"playlist",
+		"user",
+		"album",
+		"link"
+	]
+}
